@@ -4,17 +4,18 @@
 }
 
 .container {
-  width: 1170px;
-  padding: 0 15px;
-  margin: 0 auto;
+  padding: 20px;
+  background-color:silver;
 }
 
-.
+.header h3{
+  color:green;
+}
 
 
 
 .contents{
-  float:left;
+  
   padding-right:5px;
 }
 
@@ -27,9 +28,10 @@
   color:blue;
 }
 
-.header h3{
-  color:green;
+.header{
+  background-color:pink;
 }
+
 
 .contents2 h3{
   color:gold;
@@ -41,4 +43,5 @@ h3{
 
 .footer{
   padding:20px 20px;
+  background-color:skyblue;
 }
